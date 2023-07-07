@@ -1,0 +1,65 @@
+/* #VendingMachineNavBar-div {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 3rem;
+}
+
+#VendingMachineNavBar {
+    list-style-type: none;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    background-color: gray;
+    border-radius: 25px;
+}
+
+#VendingMachineNavBar li {
+    font-size: xx-large; 
+    font-weight:bold;
+    margin-top: 1rem;  
+    margin-bottom: 1rem;  
+    vertical-align: middle; 
+}
+
+.VendingItem a {
+    text-decoration: none;
+    color: white;
+}
+
+#VendingMachineNavBar a:hover {
+    color: black;
+} */
+
+.NavBar-div {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 3rem;
+}
+
+.NavBar {
+    list-style-type: none;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    background-color: gray;
+    border-radius: 25px;
+}
+
+.NavBar li {
+    font-size: xx-large; 
+    font-weight:bold;
+    margin-top: 1rem;  
+    margin-bottom: 1rem;  
+    vertical-align: middle; 
+}
+
+.VendingItem a {
+    text-decoration: none;
+    color: white;
+}
+
+.NavBar a:hover {
+    color: black;
+}
